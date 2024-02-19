@@ -1,4 +1,4 @@
-# CR-for-a-reason1
+# Thank me later
 
 1.	Aim:  To write a C program that initializes an array of integers with user-input values. The program should then find and print the sum and average of the array elements.
 Algorithm: 
